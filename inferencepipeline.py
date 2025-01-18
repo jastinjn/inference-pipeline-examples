@@ -1,5 +1,4 @@
 from inference import InferencePipeline
-from inference.core.interfaces.stream.sinks import render_boxes
 from inference.core.interfaces.camera.entities import VideoFrame
 import supervision as sv
 import cv2
